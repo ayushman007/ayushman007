@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ayushmanpaul007@gmail.com**
 
-- ⚡ Fun fact **big fan of tv shows**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
