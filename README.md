@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-<link rel="stylesheet" href="github-activity.min.css">
+
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
 <script type="text/javascript" src="github-activity.min.js">
@@ -68,7 +67,4 @@
   
   
   
-  <div id="feed"></div>
-  <script>
-   GitHubActivity.feed({ username: "ayushman007", selector: "#feed" });
- </script>
+  
