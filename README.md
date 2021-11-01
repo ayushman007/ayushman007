@@ -1,7 +1,6 @@
 
 
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
-<script type="text/javascript" src="github-activity.min.js">
+
 
 <h1 align="center">Hi 👋, I'm Ayushman Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
