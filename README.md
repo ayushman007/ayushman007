@@ -32,6 +32,15 @@
 
 
 
+<div id="feed"></div>
+
+
+
+
+
+GitHubActivity.feed({ username: "your-username", selector: "#feed" });
+
+
 
 
 
