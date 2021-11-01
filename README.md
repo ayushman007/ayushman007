@@ -1,4 +1,8 @@
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+<link rel="stylesheet" href="github-activity.min.css">
 
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+<script type="text/javascript" src="github-activity.min.js">
 
 <h1 align="center">Hi 👋, I'm Ayushman Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -48,3 +52,23 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushman007&custom_title=Checkout%20My%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div id="feed"></div>
+  <script>
+   GitHubActivity.feed({ username: "ayushman007", selector: "#feed" });
+ </script>
