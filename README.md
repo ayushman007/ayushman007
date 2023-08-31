@@ -3,11 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayushman Paul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman007&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman007" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **ayushmanpaul007@gmail.com**
 
